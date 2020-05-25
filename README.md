@@ -19,3 +19,6 @@ Medium Post: https://medium.com/@ihsan_kose/a-machine-learning-approach-to-predi
 * PySpark ML
 * Jupyter
 * SkLearn
+
+## Acknowledgement
+The dataset and notebook instructions are provided by Udacity. 
